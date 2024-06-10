@@ -42,7 +42,7 @@ Here are some ideas to get you started:
  
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
   
-   <h1> <img src="https://github.com/krdric/krdric/blob/main/resources/contact.gif#:~:text=/-,contact.gif,-Go%20to%20file" width="70px" style="border-radius: 50%"> ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ </h1>
+   <h1> <img src="https://github.com/krdric/krdric/blob/main/resources/contact.gif#:~:text=/-,contact.gif,-Go%20to%20file" width="70px"> ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ </h1>
 <p><a href="https://t.me/kardam_rkt"><img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram" width="120""/></a></p> <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7FF&width=420&lines=If+There+Is+Any+Problem≠;Contact+Me+On+Telegram+☎"> 
 
  </p>
@@ -53,4 +53,4 @@ Here are some ideas to get you started:
   
 
  
- <p><img src="https://github.com/krdric/krdric/blob/main/resources/rishi.jpg" width="300px" style:border-radius:50px;></p>
+ <p><img src="https://github.com/krdric/krdric/blob/main/resources/rishi.jpg" width="300px">hello</p>
