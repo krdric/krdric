@@ -20,7 +20,7 @@
 🎓 BCA Student  
 💻 Flutter & Firebase Developer  
 🎮 BGMI Competitive Gamer  
-📺 YouTuber — **KRD-RIC**  
+📺 YouTuber — **KRDRIC**  
 🚀 Building apps + gaming content  
 
 ---
