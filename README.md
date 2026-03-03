@@ -53,4 +53,4 @@ Here are some ideas to get you started:
   
 
  
- <p><img src="https://github.com/krdric/krdric/blob/main/resources/rishi.jpg" width="300px">hello</p>
+ <p><img src="https://github.com/krdric/krdric/blob/main/resources/rishi.jpg" width="300px"></p>
