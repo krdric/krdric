@@ -1,61 +1,56 @@
-<!-- 🔥 NEON TOP BANNER -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f0ff,100:1a1aff&height=220&section=header&text=KRD-RIC&fontSize=70&fontColor=00F0FF&animation=twinkling&fontAlignY=40&desc=Flutter%20Developer%20|%20BGMI%20Gamer%20|%20YouTuber&descAlignY=65&descSize=22" />
-</p>
+<!-- ### Hi there 👋
 
-<!-- 👋 TYPING ANIMATION -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=00F0FF&center=true&vCenter=true&width=750&lines=Hi+I'm+KRD-RIC;BCA+Student;Flutter+%26+Firebase+Developer;BGMI+Pro+Gamer;YouTuber+Gaming+Creator" />
-</p>
+<!--
+**krdric/krdric** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-<!-- 👀 PROFILE VIEWS -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=krdric&label=Profile+Views&color=00f0ff&style=for-the-badge" />
-</p>
+Here are some ideas to get you started:
 
----
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ... coding
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ... -->
 
-## 🧑‍💻 About Me  
+ 
+ <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+<h1> <img src="https://github.com/krdric/krdric/blob/main/resources/codes.webp" width="70px">ΉΣY ƬΉΣЯΣ,, ƬΉIƧ  IƧ ЯIƧΉI-KΛЯDΛM
 
-🎓 BCA Student  
-💻 Flutter & Firebase Developer  
-🎮 BGMI Competitive Gamer  
-📺 YouTuber — **KRDRIC**  
-🚀 Building apps + gaming content  
+ </h1><p align="center">
 
----
+ 
+ 
+ 
+ 
+ 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Kalam&size=22&pause=1000&multiline=true&random=false&width=620&height=190&lines=%E2%9C%8C%EF%B8%8F+Hello+Everyone;%E2%98%9B+My+Name+Is%E3%80%98Rishi+Kardam%E3%80%99;%E2%98%9B+I+Am+From+%E2%9C%88+AGRA+%E2%99%94;%E2%98%9B+Right+Now+I+Am+Doing+%E2%9C%8D%EF%B8%8F+BCA;%E2%98%9B+Till+Now+I+Have+Learned+%F0%9F%92%BB%E3%80%8EPython%2C+HTML%2C+CSS+and+J.S%E3%80%8F;%E2%98%9B+Am+Doing+%F0%9F%96%A5+Backend+Like+%E3%80%8ENext+J.S%2C+React+J.S%E3%80%8F)](https://git.io/typing-svg)
+ 
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-## 🌈 Neon Tech Stack  
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Flutter-00F0FF?style=for-the-badge&logo=flutter&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Firebase-FF9100?style=for-the-badge&logo=firebase&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Dart-00C4FF?style=for-the-badge&logo=dart&logoColor=black"/>
-  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00F0FF"/>
-</p>
 
----
 
-## ⚡ Glowing GitHub Stats  
+<p align="middle"><a href="https://github.com/krdric"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=orange"></a>
+ <p align="center">ᴠɪsɪᴛᴏʀs<br><img src="https://profile-counter.glitch.me/krdric/count.svg"><br>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=krdric&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=00F0FF&text_color=ffffff" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=krdric&theme=tokyonight&hide_border=true&background=0D1117&ring=00F0FF&fire=FF9100&currStreakLabel=00F0FF" width="48%"/>
-</p>
+  
+  <h1> <img src = "https://github.com/krdric/krdric/blob/main/resources/analytics.webp" width="57px"> <P ALIGN="middle"> ɢɪᴛʜᴜʙ ᴀɴᴀʟʏᴛɪᴄs </h1>
 
----
+ [<img src="https://github-readme-stats.vercel.app/api?username=krdric&&show_icons=true&title_color=60f542&icon_color=bb2acf&text_color=FFA500&bg_color=000000" width="49%">](https://github.com/krdric)  [<img src="https://github-readme-streak-stats.herokuapp.com/?user=krdric&theme=chartreuse-dark&hide_border=True&bg_color=FFA500" width="49%">](https://github.com/krdric)
+ 
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+  
+   <h1> <img src="https://github.com/krdric/krdric/blob/main/resources/contact.gif#:~:text=/-,contact.gif,-Go%20to%20file" width="70px"> ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ </h1>
+<p><a href="https://t.me/kardam_rkt"><img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram" width="120""/></a></p> <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7FF&width=420&lines=If+There+Is+Any+Problem≠;Contact+Me+On+Telegram+☎"> 
 
-## 🎮 Gaming Zone  
+ </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/BGMI-Gamer-00F0FF?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/YouTube-KRD--RIC-FF0000?style=for-the-badge&logo=youtube"/>
-</p>
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+ 
+ 
+  
 
----
-
-## 📈 Activity Graph  
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=krdric&bg_color=0D1117&color=00F0FF&line=00F0FF&point=FF9100&area=true&hide_border=true" />
-</p>
+ 
+ <p><img src="https://github.com/krdric/krdric/blob/main/resources/rishi.jpg" width="300px">hello</p>
