@@ -30,15 +30,10 @@ Here are some ideas to get you started:
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 
-
-
-<p align="middle"><a href="https://github.com/krdric"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=orange"></a>
- <p align="center">ᴠɪsɪᴛᴏʀs<br><img src="https://profile-counter.glitch.me/krdric/count.svg"><br>
-
   
-  <h1> <img src = "https://github.com/krdric/krdric/blob/main/resources/analytics.webp" width="57px"> <P ALIGN="middle"> ɢɪᴛʜᴜʙ ᴀɴᴀʟʏᴛɪᴄs </h1>
+  <h1> <P ALIGN="middle"> ɢɪᴛʜᴜʙ ᴀɴᴀʟʏᴛɪᴄs </h1>
 
- (https://github.com/krdric)  [<img src="https://github-readme-streak-stats.herokuapp.com/?user=krdric&theme=chartreuse-dark&hide_border=True&bg_color=FFA500" width="49%">](https://github.com/krdric)
+ [<img src="https://github-readme-streak-stats.herokuapp.com/?user=krdric&theme=chartreuse-dark&hide_border=True&bg_color=FFA500" width="49%">](https://github.com/krdric)
  
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
   
